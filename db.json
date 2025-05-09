@@ -1,5 +1,4 @@
-{
-  "meals": [
+[
     {
       "id": 1,
       "name": "Chocolate Cake",
@@ -43,4 +42,4 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lasagna_%281%29.jpg/640px-Lasagna_%281%29.jpg"
     }
   ]
-}
+
