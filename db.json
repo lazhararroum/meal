@@ -18,28 +18,28 @@
       "name": "Cheeseburger",
       "type": "savory",
       "description": "Grilled cheeseburger with lettuce and tomato",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/RedDot_Burger.jpg/640px-RedDot_Burger.jpg"
+      "image": "https://static.vecteezy.com/system/resources/previews/036/212/149/non_2x/ai-generated-grilled-beef-burger-with-cheese-and-french-fries-generated-by-ai-photo.jpg"
     },
     {
       "id": 4,
       "name": "Margherita Pizza",
       "type": "savory",
       "description": "Pizza with tomato, mozzarella, and basil",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/640px-Eq_it-na_pizza-margherita_sep2005_sml.jpg"
+      "image": "https://bing.com/th?id=OSK.fdd4908467c51f65515aa90af171a7a2"
     },
     {
       "id": 5,
       "name": "Strawberry Ice Cream",
       "type": "sweet",
       "description": "Creamy strawberry-flavored ice cream",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ice_Cream_dessert_02.jpg/640px-Ice_Cream_dessert_02.jpg"
+      "image": "https://th.bing.com/th/id/OIP.UcEockyWq9XOgf_KzKoJewHaHa?cb=iwc1&rs=1&pid=ImgDetMain"
     },
     {
       "id": 6,
       "name": "Lasagna",
       "type": "savory",
       "description": "Layers of pasta with meat sauce and cheese",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lasagna_%281%29.jpg/640px-Lasagna_%281%29.jpg"
+      "image": "https://th.bing.com/th/id/OIP.KVWX_M_uB_k1LTUtByg6lwHaLG?cb=iwc1&rs=1&pid=ImgDetMain"
     }
   ]
 
